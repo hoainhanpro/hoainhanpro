@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoainhanpro
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning English
+- 🌱 I’m currently learning Software Enginerrer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
