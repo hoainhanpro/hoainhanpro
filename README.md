@@ -9,8 +9,8 @@
 
 ## Skills
 - Languages: C++, Python, Java
-- Frameworks: Flask, Django
-- Tools: Git
+- Frameworks: Flask, FastAPI, NodeJS, SpringBoot
+- Tools: Git, Figma, Kaggle
   
 ## Projects
 - [ThiTracNghiem](https://github.com/hoainhanpro/ThiTracNghiem): Quizz Software.
